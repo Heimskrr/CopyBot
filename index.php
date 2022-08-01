@@ -4,16 +4,16 @@
 /////////////////////////// CONFIGURATION /////////////////////////////
 
 // add your Twitter Developer credits
-$APIkey="";
-$APIsecretKey="";
-$AccesToken="";
-$AccesTokenSecret="";
+$APIkey="KWYXJVyFFAu8qFI12xkZJrF13";
+$APIsecretKey="nHXZ0o3S8rRVXNjF3TLUt0Cph5B6EN5ssDKMpxHmlZWy0kEyoh";
+$AccesToken="1525924924812148736-72hHrtWFs8PiP58asZkpDcI6IN7J8W";
+$AccesTokenSecret="6b2t1mcHYjktDPH8KxSwtV3YWAwsks9M5WawyIaTkoIPb";
 
 // add Twitter name (@) of the account you want to copy tweets
-$victim="";
+$victim="@mGbaum1204";
 
 // add your Twitter name (@)
-$me="";
+$me="@burry_bot";
 
 ///////////////////////////////////////////////////////////////////
 
